@@ -1,0 +1,165 @@
+@charset "UTF-8";
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200&display=swap');
+</style>
+
+.wrapper1{
+  position:relative;
+}
+
+.seamovie{
+  width:100%;
+}
+
+.wrapper1 h1{
+  position:absolute;
+  top:100px;
+  left:50px;
+  color:black;
+  font-family:'arial black';
+  border-bottom:solid 5px;
+}
+
+.wrapper1 h2{
+  position:absolute;
+  color:#555;
+  top:300px;
+  left:50px;
+}
+
+.wrapper1 p{
+  position:absolute;
+  color:#333;
+  top:340px;
+  left:50px;
+}
+
+.wrapper2{
+  padding-top:50px;
+  padding-bottom:50px;
+}
+
+.wrapper2 h1{
+  text-align:center;
+  color:black;
+  font-family: 'Noto Serif JP', serif;
+  border-bottom:solid 3px;
+}
+
+.wrapper2 h3{
+  text-align:center;
+  color:grey;
+  font-family: 'Noto Serif JP', serif;
+}
+
+.wrapper3{
+  background-color:grey;
+  padding-top:50px;
+  padding-bottom:50px;
+}
+
+.wrapper3 h1{
+  color:white;
+  font-family: 'Noto Serif JP', serif;
+  border-bottom:solid 3px;
+  text-align:center;
+}
+
+.introduce{
+  border:solid 5px white;
+  border-radius:5px;
+  width:400px;
+  height:350px;
+  text-align:center;
+  margin-left:200px;
+}
+
+.wrapper3 h3{
+  float:right;
+  width:630px;
+  margin-right:200px;
+  color:white;
+  font-family: 'Noto Serif JP', serif;
+}
+
+.wrapper3 a{
+  color:blue;
+}
+
+.wrapper4{
+  padding-top:50px;
+  padding-bottom:50px;
+}
+
+.wrapper4 h1{
+  font-family: 'Noto Serif JP', serif;
+  border-bottom:solid 3px;
+  text-align:center;
+}
+
+.wrapper4-1{
+  display:inline-block;
+  border:dashed 3px navy;
+  border-radius:30px;
+  width:370px;
+  height:200px;
+  padding:30px;
+  margin-left:300px;
+}
+
+.wrapper4-1-1{
+  float:right;
+  font-family: 'Noto Serif JP', serif;
+}
+
+.wrapper4-1-1 h2{
+  border-bottom:solid 3px navy;
+}
+
+.wrapper4-2{
+  float:right;
+  border:dashed 3px teal;;
+  border-radius:30px;
+  width:370px;
+  height:200px;
+  padding:30px;
+  margin-right:300px;
+}
+
+.wrapper4-2-1{
+  float:right;
+  font-family: 'Noto Serif JP', serif;
+}
+
+.wrapper4-2-1 h2{
+  border-bottom:solid 3px teal;
+}
+
+.wrapper5{
+  background-color:grey;
+  padding-top:50px;
+  padding-bottom:50px;
+}
+
+.wrapper5 h1{
+  color:white;
+  font-family: 'Noto Serif JP', serif;
+  border-bottom:solid 3px;
+  text-align:center;
+}
+
+.wrapper5-1{
+  color:white;
+  font-family: 'Noto Serif JP', serif;
+  text-align:center;
+}
+
+.twitter{
+  border:solid 3px navy;
+  border-radius:10px;
+}
+
+footer{
+  font-family: 'Noto Serif JP', serif;
+  text-align:center;
+}
