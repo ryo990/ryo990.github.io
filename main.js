@@ -1,4 +1,4 @@
-const pics_src = ["image/introduce.png","image/introduce2.png"];
+const pics_src = ["introduce.png","introduce2.png"];
 let num = -1;
 
 function slideshow_timer(){
